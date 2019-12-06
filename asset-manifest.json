@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/VitorHSR/streamerspel.git/static/js/main.59631354.chunk.js",
-    "main.js.map": "/VitorHSR/streamerspel.git/static/js/main.59631354.chunk.js.map",
-    "runtime-main.js": "/VitorHSR/streamerspel.git/static/js/runtime-main.27d21275.js",
-    "runtime-main.js.map": "/VitorHSR/streamerspel.git/static/js/runtime-main.27d21275.js.map",
-    "static/js/2.a8d3fb6e.chunk.js": "/VitorHSR/streamerspel.git/static/js/2.a8d3fb6e.chunk.js",
-    "static/js/2.a8d3fb6e.chunk.js.map": "/VitorHSR/streamerspel.git/static/js/2.a8d3fb6e.chunk.js.map",
-    "index.html": "/VitorHSR/streamerspel.git/index.html",
-    "precache-manifest.fd551b717fae912218793cf032c8217f.js": "/VitorHSR/streamerspel.git/precache-manifest.fd551b717fae912218793cf032c8217f.js",
-    "service-worker.js": "/VitorHSR/streamerspel.git/service-worker.js"
+    "main.js": "/VitorHSR/streamerspel/static/js/main.59631354.chunk.js",
+    "main.js.map": "/VitorHSR/streamerspel/static/js/main.59631354.chunk.js.map",
+    "runtime-main.js": "/VitorHSR/streamerspel/static/js/runtime-main.1e8042b7.js",
+    "runtime-main.js.map": "/VitorHSR/streamerspel/static/js/runtime-main.1e8042b7.js.map",
+    "static/js/2.a8d3fb6e.chunk.js": "/VitorHSR/streamerspel/static/js/2.a8d3fb6e.chunk.js",
+    "static/js/2.a8d3fb6e.chunk.js.map": "/VitorHSR/streamerspel/static/js/2.a8d3fb6e.chunk.js.map",
+    "index.html": "/VitorHSR/streamerspel/index.html",
+    "precache-manifest.d0f4a3bf5f0cc53f10bb444fd4d1274c.js": "/VitorHSR/streamerspel/precache-manifest.d0f4a3bf5f0cc53f10bb444fd4d1274c.js",
+    "service-worker.js": "/VitorHSR/streamerspel/service-worker.js"
   },
   "entrypoints": [
-    "static/js/runtime-main.27d21275.js",
+    "static/js/runtime-main.1e8042b7.js",
     "static/js/2.a8d3fb6e.chunk.js",
     "static/js/main.59631354.chunk.js"
   ]
